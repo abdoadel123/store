@@ -1,0 +1,26 @@
+[
+  {
+    "name": "product 1",
+    "quantity": 20,
+    "price": 94,
+    "image": "qui ex dolore"
+  },
+  {
+    "name": "product 2",
+    "quantity": 13,
+    "price": 94,
+    "image": "qui ex dolore"
+  },
+  {
+    "name": "product 3",
+    "quantity": 6,
+    "price": 94,
+    "image": "qui ex do lore"
+  },
+  {
+    "name": "product 4",
+    "quantity": 4,
+    "price": 94,
+    "image": "qui ex dolore"
+  }
+]

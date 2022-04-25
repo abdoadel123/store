@@ -1,0 +1,32 @@
+[
+  {
+    "email": "admin@gmail.com",
+    "emailVerified": true,
+    "role": "Admin",
+    "password": "12345678"
+  },
+  {
+    "email": "customer@gmail.com",
+    "emailVerified": true,
+    "role": "Customer",
+    "password": "12345678"
+  },
+  {
+    "email": "carrier@gmail.com",
+    "emailVerified": true,
+    "role": "Carrier",
+    "password": "12345678"
+  },
+  {
+    "email": "customer2@gmail.com",
+    "emailVerified": true,
+    "role": "Customer",
+    "password": "12345678"
+  },
+  {
+    "email": "carrier2@gmail.com",
+    "emailVerified": true,
+    "role": "Carrier",
+    "password": "12345678"
+  }
+]
